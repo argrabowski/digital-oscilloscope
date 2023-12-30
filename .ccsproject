@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<ccsVersion value="7.2.0"/>
+	<deviceVariant value="Cortex M.TM4C1294NCPDT"/>
+	<deviceFamily value="TMS470"/>
+	<deviceEndianness value="little"/>
+	<codegenToolVersion value="16.9.4.LTS"/>
+	<isElfFormat value="true"/>
+	<connection value="common/targetdb/connections/Stellaris_ICDI_Connection.xml"/>
+	<linkerCommandFile value="tm4c1294ncpdt.cmd"/>
+	<rts value="libc.a"/>
+	<createSlaveProjects value=""/>
+	<templateProperties value="id=com.ti.common.project.core.emptyProjectWithMainTemplate,"/>
+	<filesToOpen value="main.c,"/>
+	<isTargetManual value="true"/>
+	<origin value="C:/Users/gene/Documents/Work/ECE 3849/workspace_v8/ece3849_lab0_starter"/>
+</projectOptions>
